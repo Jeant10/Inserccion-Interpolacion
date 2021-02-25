@@ -1,0 +1,4 @@
+El arreglo de elementos:|1||2||3||5||7||8||9|
+El elemento a buscar:7
+ELEMENTO ENCONTRADO
+La posicion del elemento:7
